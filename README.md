@@ -1,4 +1,6 @@
 # Diamonds-Shiny-App
+![Diamond](Replica_of_the_Koh-i-Noor_(cropped).jpg)
+
 *An analysis of 53,940 different diamonds and their various features*
 
 This project was my final project for my STAT 385 (Statistical Programming Methods) course. This project is a Shiny app which allows the user to input a independent variable, a dependent variable, and a grouping factor of various features from a collection of diamonds. The output of this project is linear regression model and an associated scatterplot of the various inputs. In addition a bar chart can also be created. 
